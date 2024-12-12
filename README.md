@@ -29,11 +29,13 @@ Main Analyses and Queries:
 	•Revenue Impact by Product and Category: Calculating contributions to total revenue for targeted investments.
 
 Business Recommendations:
-	•	Strengthen partnerships with high-performing manufacturers such as ABLIC Inc. and YAGEO.
-	•	Implement predictive inventory strategies to prevent stockouts for critical items.
-	•	Negotiate lead times with underperforming suppliers to improve supply chain efficiency.
-	•	Focus marketing on premium products and high-value categories for better profitability.
-	•	Develop bundling strategies for closely priced products to attract cost-sensitive customers.
+
+	•Strengthen partnerships with high-performing manufacturers such as ABLIC Inc. and YAGEO.
+	•Implement predictive inventory strategies to prevent stockouts for critical items.
+	•Negotiate lead times with underperforming suppliers to improve supply chain efficiency.
+	•Focus marketing on premium products and high-value categories for better profitability.
+	•Develop bundling strategies for closely priced products to attract cost-sensitive customers.
 
  Conclusion:
+ 
 This project demonstrates the use of SQL for extracting actionable insights from a complex dataset. The analyses provide guidance for improving supply chain resilience, inventory management, and financial performance while highlighting opportunities in pricing and market positioning.
